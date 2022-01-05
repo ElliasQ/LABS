@@ -47,7 +47,7 @@ double inputParameterValue(char key)
             }
             else
             {
-                std::cout<<key<<"can't be equal zero, because cos(x) is in the denominator will be equal zero and ln(0) is undefined\n";
+                std::cout<<key<<" can't be equal zero, because cos(x) is in the denominator will be equal zero and ln(0) is undefined\n";
             }
 
         }
